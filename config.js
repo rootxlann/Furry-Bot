@@ -5,7 +5,7 @@ global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
 ['6281916563306', 'yuu', true], 
-['62895405980038', 'Akira', true] 
+['62895405980038', 'Chizuru MD', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'coming soon!'
-global.WM = '©Akira2022'
+global.WM = '©Chizuru2022'
 global.linkgc = '-'
 global.linkig = '-'
 global.deslink = ''
